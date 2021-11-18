@@ -10,17 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ae5a46bda3295124c99b0e6537ac7252, type: 3}
-  m_Name: WitConfig
+  m_Name: WitConfiguration
   m_EditorClassIdentifier: 
   application:
     witConfiguration: {fileID: 0}
-    name: Built-in Models
-    id: voiceSDK_en
+    name: abstractal_health
+    id: 621232935571539
     lang: en
     isPrivate: 0
-    createdAt: 
-  configId: 2b11530b98bb04260a8c2eafe3c00d7c
-  clientAccessToken: HOKEABS7HPIQVSRSVWRPTTV75TQJ5QBP
+    createdAt: 2021-11-18T03:31:37-0800
+  configId: 972e495bd853c4535b6c7c4da8ab083e
+  clientAccessToken: V4QO6FLYYEYSARE6NJZYXGR46QLKNRVP
   entities: []
   intents: []
   traits: []

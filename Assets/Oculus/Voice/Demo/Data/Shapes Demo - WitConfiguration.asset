@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   application:
     witConfiguration: {fileID: 0}
-    name: 
-    id: 
-    lang: 
+    name: abstractal_health
+    id: 621232935571539
+    lang: en
     isPrivate: 0
-    createdAt: 
+    createdAt: 2021-11-18T03:31:37-0800
   configId: 4e21a24e472ab684e84db753427d5687
-  clientAccessToken: 
+  clientAccessToken: V4QO6FLYYEYSARE6NJZYXGR46QLKNRVP
   entities: []
   intents: []
   traits: []
