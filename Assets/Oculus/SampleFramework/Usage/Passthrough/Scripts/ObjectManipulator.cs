@@ -1,4 +1,5 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -35,6 +36,9 @@ public class ObjectManipulator : MonoBehaviour
 
     private void Start()
     {
+
+        print("test");
+
         if (passthrough)
         {
             passthrough.colorMapEditorBrightness = -1;
@@ -226,6 +230,28 @@ public class ObjectManipulator : MonoBehaviour
 
         if (obj.GetComponent<GrabObject>())
         {
+
+
+        /* ==========================================================================
+        possibly on click is here
+        step 1. try change color on click
+        obj.getcomponent.change material
+        gameObject.GetComponent<Renderer> ().material.color = mycolor;
+        ========================================================================== */
+
+        obj.GetComponent<Renderer>().material.color = new Color32(255,255,255,55);
+
+
+
+    /* ==========================================================================
+
+    ========================================================================== */
+
+
+
+
+
+
             useDefaultManipulation = false;
             switch (obj.GetComponent<GrabObject>().objectManipulationType)
             {
