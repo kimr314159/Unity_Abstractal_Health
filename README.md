@@ -1,3 +1,12 @@
 Abstractal Health Application for Oculus Quest 2 
+By Kim D. Huynh
 
-For Unity version-2020.3.22.
+
+Hardware Requirements
+Oculus Quest 2 
+
+Software Requirements
+Unity Version 2020.3.22.
+Oculus Integration Asset Version 34.0
+
+For any questions, please reach out to kimhuynh@gatech.edu
